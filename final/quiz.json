@@ -1,0 +1,184 @@
+{
+    "quiz": [
+      {
+        "question": "What is the name of Harry Potter's owl?",
+        "options": ["Pigwidgeon", "Hedwig", "Errol", "Crookshanks"],
+        "answer": "Hedwig",
+        "level": "easy"
+      },
+      {
+        "question": "What house is Harry Potter sorted into at Hogwarts?",
+        "options": ["Slytherin", "Ravenclaw", "Gryffindor", "Hufflepuff"],
+        "answer": "Gryffindor",
+        "level": "easy"
+      },
+      {
+        "question": "Who is the author of the Harry Potter series?",
+        "options": ["J.R.R. Tolkien", "J.K. Rowling", "C.S. Lewis", "George R.R. Martin"],
+        "answer": "J.K. Rowling",
+        "level": "easy"
+      },
+      {
+        "question": "What is the name of Harry's best friend?",
+        "options": ["Draco Malfoy", "Neville Longbottom", "Ron Weasley", "Hermione Granger"],
+        "answer": "Ron Weasley",
+        "level": "easy"
+      },
+      {
+        "question": "What position does Harry play in Quidditch?",
+        "options": ["Chaser", "Beater", "Seeker", "Keeper"],
+        "answer": "Seeker",
+        "level": "easy"
+      },
+      {
+        "question": "What is the name of the school Harry attends?",
+        "options": ["Beauxbatons", "Durmstrang", "Hogwarts", "Ilvermorny"],
+        "answer": "Hogwarts",
+        "level": "easy"
+      },
+      {
+        "question": "What is the name of Harry's godfather?",
+        "options": ["Remus Lupin", "Sirius Black", "Albus Dumbledore", "Severus Snape"],
+        "answer": "Sirius Black",
+        "level": "easy"
+      },
+      {
+        "question": "What is the core of Harry's wand?",
+        "options": ["Dragon heartstring", "Unicorn hair", "Phoenix feather", "Veela hair"],
+        "answer": "Phoenix feather",
+        "level": "easy"
+      },
+      {
+        "question": "What is the name of the train that takes students to Hogwarts?",
+        "options": ["The Knight Bus", "The Hogwarts Express", "The Flying Ford Anglia", "Thestral Carriage"],
+        "answer": "The Hogwarts Express",
+        "level": "easy"
+      },
+      {
+        "question": "What is the name of the gamekeeper at Hogwarts?",
+        "options": ["Argus Filch", "Rubeus Hagrid", "Minerva McGonagall", "Severus Snape"],
+        "answer": "Rubeus Hagrid",
+        "level": "easy"
+      },
+      {
+        "question": "What is the name of the spell that unlocks doors?",
+        "options": ["Alohomora", "Expelliarmus", "Lumos", "Wingardium Leviosa"],
+        "answer": "Alohomora",
+        "level": "medium"
+      },
+      {
+        "question": "What is the name of the potion that allows the drinker to assume the form of someone else?",
+        "options": ["Felix Felicis", "Polyjuice Potion", "Veritaserum", "Amortentia"],
+        "answer": "Polyjuice Potion",
+        "level": "medium"
+      },
+      {
+        "question": "What is the name of the goblin who works at Gringotts and helps Harry?",
+        "options": ["Griphook", "Dobby", "Kreacher", "Winky"],
+        "answer": "Griphook",
+        "level": "medium"
+      },
+      {
+        "question": "What is the name of the spell that creates light?",
+        "options": ["Lumos", "Nox", "Incendio", "Accio"],
+        "answer": "Lumos",
+        "level": "medium"
+      },
+      {
+        "question": "What is the name of the book that bites and has a tendency to snap at people?",
+        "options": ["The Tales of Beedle the Bard", "The Monster Book of Monsters", "Advanced Potion-Making", "Hogwarts: A History"],
+        "answer": "The Monster Book of Monsters",
+        "level": "medium"
+      },
+      {
+        "question": "What is the name of the wizarding prison?",
+        "options": ["Nurmengard", "Azkaban", "Diagon Alley", "The Ministry of Magic"],
+        "answer": "Azkaban",
+        "level": "medium"
+      },
+      {
+        "question": "What is the name of the spell that kills instantly?",
+        "options": ["Crucio", "Imperio", "Avada Kedavra", "Expelliarmus"],
+        "answer": "Avada Kedavra",
+        "level": "medium"
+      },
+      {
+        "question": "What is the name of the potion that grants luck?",
+        "options": ["Polyjuice Potion", "Felix Felicis", "Veritaserum", "Amortentia"],
+        "answer": "Felix Felicis",
+        "level": "medium"
+      },
+      {
+        "question": "What is the name of the ghost who haunts the girls' bathroom at Hogwarts?",
+        "options": ["Nearly Headless Nick", "The Bloody Baron", "Moaning Myrtle", "The Grey Lady"],
+        "answer": "Moaning Myrtle",
+        "level": "medium"
+      },
+      {
+        "question": "What is the name of the spell that levitates objects?",
+        "options": ["Alohomora", "Wingardium Leviosa", "Expelliarmus", "Accio"],
+        "answer": "Wingardium Leviosa",
+        "level": "medium"
+      },
+      {
+        "question": "What is the name of the spell that creates a Patronus?",
+        "options": ["Expecto Patronum", "Protego", "Stupefy", "Expelliarmus"],
+        "answer": "Expecto Patronum",
+        "level": "hard"
+      },
+      {
+        "question": "What is the name of the dragon that Hagrid hatches in the first book?",
+        "options": ["Norbert", "Hungarian Horntail", "Chinese Fireball", "Swedish Short-Snout"],
+        "answer": "Norbert",
+        "level": "hard"
+      },
+      {
+        "question": "What is the name of the spell that Snape created?",
+        "options": ["Sectumsempra", "Levicorpus", "Muffliato", "Langlock"],
+        "answer": "Sectumsempra",
+        "level": "hard"
+      },
+      {
+        "question": "What is the name of the house-elf who serves the Malfoy family?",
+        "options": ["Dobby", "Kreacher", "Winky", "Hokey"],
+        "answer": "Dobby",
+        "level": "hard"
+      },
+      {
+        "question": "What is the name of the spell that creates a fiery rope-like projection?",
+        "options": ["Incendio", "Confringo", "Fiendfyre", "Flagrate"],
+        "answer": "Incendio",
+        "level": "hard"
+      },
+      {
+        "question": "What is the name of the potion that causes the drinker to fall in love?",
+        "options": ["Amortentia", "Felix Felicis", "Veritaserum", "Polyjuice Potion"],
+        "answer": "Amortentia",
+        "level": "hard"
+      },
+      {
+        "question": "What is the name of the spell that reveals hidden messages?",
+        "options": ["Aparecium", "Revelio", "Specialis Revelio", "Finite Incantatem"],
+        "answer": "Aparecium",
+        "level": "hard"
+      },
+      {
+        "question": "What is the name of the spell that creates a shield?",
+        "options": ["Protego", "Expelliarmus", "Stupefy", "Imperio"],
+        "answer": "Protego",
+        "level": "hard"
+      },
+      {
+        "question": "What is the name of the spell that mends broken objects?",
+        "options": ["Reparo", "Scourgify", "Evanesco", "Obliviate"],
+        "answer": "Reparo",
+        "level": "hard"
+      },
+      {
+        "question": "What is the name of the spell that forces someone to tell the truth?",
+        "options": ["Veritaserum", "Imperio", "Crucio", "Obliviate"],
+        "answer": "Veritaserum",
+        "level": "hard"
+      }
+    ]
+  }
